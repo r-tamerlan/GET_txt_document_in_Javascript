@@ -1,0 +1,12 @@
+About this course
+Modern tekniklerle Web Geliştirme ( Web Development ) Öğrenin. HTML,CSS, Node , JavaScript, React, Angular, Asp.Net Core
+
+By the numbers
+Skill level: Tüm Düzeyler
+Öğrenci: 8833
+Languages: Türkçe
+Altyazılar: Hayır
+Pratik testleri: 1
+Sorular: 1
+Lectures: 696
+Video: 98,5 total saat
